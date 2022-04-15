@@ -17,7 +17,7 @@
   <img align="center" alt="johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="johnny-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg">
      <img align="right" alt="johnny-pic" height="150"  
-          src="https://media.discordapp.net/attachments/943609015655600158/944285354280771614/facebook_1645205551996_6900492227566463567.jpg?width=458&height=458">
+          src="https://media.discordapp.net/attachments//944285354280771614/facebook_1645205551996_6900492227566463567.jpg?width=458&height=458">
 </div>
 </div>
   
