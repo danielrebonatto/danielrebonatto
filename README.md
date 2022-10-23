@@ -1,20 +1,22 @@
-# Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, seja bem vindo 🎉
+### 👋 Hii, I'm Dan!  
 
-## 💡 Sobre mim :
-* Me chamo  moro em Concórdia - SC 📍 🏠
+<a target="_blank" href="https://open.spotify.com/user/hrk4o84s07ltozh8rwx9ezgsi?si=a626b8ccb7974ded">
+  <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
+</a>
+<a target="_blank" href="https://www.instagram.com/danielrebonatto/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</br>
 
-* Curso Engenharia de Software na Universidade do Contestado(UnC) 🎓
+---- 
 
-*  💚
+Hi, I'm Daniel, but you can call me **Dan**. 
 
-*  🌆
+I'm a Full-Stack C#, Delphi(Object Pascal), Javascript and Python Developer from Brazil, **22 yo**. 
 
-*  🚀
+**A tecnhology enthusiast* 
 
-## 📈 Estatísticas
- 
-  <a href="https://github.com/danielrebonatto">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=danielrebonatto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrebonatto&layout=compact&langs_count=7&theme=highcontrast"/>
- 
- ## 👽 Tecnologias usadas no dia a dia: 
+*
+* 🎓Studying Software Engineering.
+
+----
